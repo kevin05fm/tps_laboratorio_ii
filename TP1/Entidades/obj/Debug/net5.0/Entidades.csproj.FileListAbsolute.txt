@@ -1,0 +1,12 @@
+D:\Facultad\Trabajos Practicos\TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+D:\Facultad\Trabajos Practicos\TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+D:\Facultad\Trabajos Practicos\TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+D:\Facultad\Trabajos Practicos\TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+D:\Facultad\Trabajos Practicos\TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Trabajos Practicos\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+D:\Facultad\Trabajos Practicos\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+D:\Facultad\Trabajos Practicos\TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Facultad\Trabajos Practicos\TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+D:\Facultad\Trabajos Practicos\TP1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+D:\Facultad\Trabajos Practicos\TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
+D:\Facultad\Trabajos Practicos\TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
