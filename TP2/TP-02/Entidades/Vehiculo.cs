@@ -34,14 +34,9 @@ namespace Entidades
         /// <summary>
         /// ReadOnly: Retornará el tamaño
         /// </summary>
-        protected virtual ETamanio Tamanio {
+        protected abstract ETamanio Tamanio {
 
-            get
-            {
-                return ETamanio.Chico;
-
-            }
-
+            get;
         }
 
         /// <summary>

@@ -54,3 +54,14 @@ C:\Users\kevin.fernandez\OneDrive - TSOFT\Documentos\Programacion II - 2022\TP2\
 C:\Users\kevin.fernandez\OneDrive - TSOFT\Documentos\Programacion II - 2022\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\kevin.fernandez\OneDrive - TSOFT\Documentos\Programacion II - 2022\TP2\TP-02\TP-02\obj\Debug\TP-02.exe
 C:\Users\kevin.fernandez\OneDrive - TSOFT\Documentos\Programacion II - 2022\TP2\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.AssemblyReference.cache
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.SuggestedBindingRedirects.cache
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Facultad\Trabajos Practicos\tps_laboratorio_ii\TP2\TP-02\TP-02\obj\Debug\TP-02.pdb
